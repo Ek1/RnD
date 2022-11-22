@@ -1,0 +1,11 @@
+## Title: Research and development
+## APIVersion: 101035 101036
+## IsLibrary: false
+## Version: 1035.221012
+## Description: To help research item traits and develop character skills according to users plan.	1035.221012
+## Author: Ek1
+## License: BY-SA = Creative Commons Attribution-ShareAlike 4.0 International License
+## SavedVariables: RnD_Settings
+## DependsOn: LibAddonMenu-2.0
+
+RnD.lua
